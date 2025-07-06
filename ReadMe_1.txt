@@ -1,0 +1,3 @@
+*The document uses GBK format encoding. If garbled characters occur, change the encoding format to GBK
+*Game records read folder is on disk D：If your computer Do NOT havr a disk D, please change the source code
+*The backgroundLabel is commented out in the GameRealize class (Line32,33,36,38,45) for computer video memory reasons. If you want to use the background map, uncomment it.(The map may be missing after moving the vehicle)

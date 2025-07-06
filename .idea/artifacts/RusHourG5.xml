@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="RusHourG5">
+    <output-path>$PROJECT_DIR$/classes/artifacts/RusHourG5</output-path>
+    <root id="root">
+      <element id="archive" name="RusHourG5.jar">
+        <element id="module-output" name="RusHourG5" />
+      </element>
+    </root>
+  </artifact>
+</component>
